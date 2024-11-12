@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 account:
-  message: "Welcome to the Account Service in Production v9 Environment"
+  message: "Welcome to the Account Service in Production v10 Environment"
   contactDetails:
     name: "Hoàng Tấn Phú Quốc - Prod Owner"
     email: "hoangtanphuquoc@gmail.com"
