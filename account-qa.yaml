@@ -2,7 +2,7 @@ build:
   version: "2.0"
 
 account:
-  message: "Welcome to the Card Service in QA Environment"
+  message: "Welcome to the Card Service in QA v1 Environment"
   contactDetails:
     name: "Hoàng Tấn Phú Quốc - QA Lead"
     email: "hoangtanphuquoc@gmail.com"
