@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 account:
-  message: "Welcome to the Account Service"
+  message: "Welcome to the Account v1 Service"
   contactDetails:
     name: "Hoàng Tấn Phú Quốc - phuquocchamp"
     email: "hoangtanphuquoc@gmail.com"
